@@ -7,7 +7,7 @@
 Library of helper functions and structures for iterating over text and files
 
 
-## [![Byte size of Iterate Text][badge__main__iterate_text__source_code]][iterate_text__main__source_code] [![Open Issues][badge__issues__iterate_text]][issues__iterate_text] [![Open Pull Requests][badge__pull_requests__iterate_text]][pull_requests__iterate_text] [![Latest commits][badge__commits__iterate_text__main]][commits__iterate_text__main]
+## [![Byte size of Iterate Text][badge__main__iterate_text__source_code]][iterate_text__main__source_code] [![Open Issues][badge__issues__iterate_text]][issues__iterate_text] [![Open Pull Requests][badge__pull_requests__iterate_text]][pull_requests__iterate_text] [![Latest commits][badge__commits__iterate_text__main]][commits__iterate_text__main] [![Build Status][badge_travis_ci]][build_travis_ci]
 
 
 ---
@@ -512,4 +512,10 @@ For further details review full length version of [AGPL-3.0][branch__current__li
 [sponsor__link__liberapay]:
   https://liberapay.com/rust-utilities
   "&#x1F4B1; Sponsor developments and projects that rust-utilities maintains via Liberapay"
+
+[badge_travis_ci]:
+  https://travis-ci.com/rust-utilities/iterate-text.svg?branch=main
+
+[build_travis_ci]:
+  https://travis-ci.com/rust-utilities/iterate-text
 
